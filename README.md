@@ -1,4 +1,4 @@
-# Dota Win Chance Prediction
+# Dota Win Chance Prediction - Patch 7.29
 
 CS 6220 Project
 By David Pan and Steniz Wahyudi
