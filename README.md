@@ -5,7 +5,7 @@ By David Pan and Steniz Wahyudi
 Northeastern University Summer 2021
 
 ## Description: 
-Dota 2 is a game with 2 teams of 5 heroes (chosen from 121 heroes at the time) each where one team always wins (there are no draws). Therefore, normally each team's win chance would be around 50/50. Every version (patch) of the game, some heroes are stronger and some are weaker. In this project we are trying to see if it is possible to better predict which team would win based off of each teams 5 starting hero picks with no other information. 
+Dota 2 is a game with 2 teams of 5 unique heroes (chosen from 121 heroes at the time) each where one team always wins (there are no draws). Therefore, normally each team's win chance would be around 50/50. Every version (patch) of the game, some heroes are stronger and some are weaker. In this project we are trying to see if it is possible to better predict which team would win based off of each teams 5 starting hero picks with no other information. 
 
 
 ## Project Goal: 
