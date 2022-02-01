@@ -18,3 +18,5 @@ Process:
   4. Analysis - Analyzed the data using Logistic Regression (chosen because of the speed and limited ability due to limited memory of the machine)
 
 Result: Reached 56% accuracy score and AUROC score
+
+Note: Data files are pretty big and unable to be uploaded here, send me a message to request them
